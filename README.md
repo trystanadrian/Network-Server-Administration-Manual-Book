@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="Network Server Administration Manual Book" src="https://github.com/user-attachments/assets/8fd348f4-33df-4730-ab9a-c67b16585b71" />
 
-### Network Server Administration Manual Book provides a practical guide to installing, configuring, and managing various network services such as DNS, mail, web, and file servers using Proxmox and Ubuntu Server, combining theory and hands-on practice for efficient and secure server management.
+Network Server Administration Manual Book provides a practical guide to installing, configuring, and managing various network services such as DNS, mail, web, and file servers using Proxmox and Ubuntu Server, combining theory and hands-on practice for efficient and secure server management.
 
 Network Server Administration Manual Book serves as a comprehensive practical guide for learning and implementing network server management. It introduces fundamental networking concepts, hardware installation, and virtualization setup using Proxmox and Ubuntu Server, then progresses into configuring and managing various essential server services.
 

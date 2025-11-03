@@ -8,7 +8,7 @@ Network Server Administration Manual Book serves as a comprehensive practical gu
 
 The manual is organized into nine chapters:
 
-## 1. Introduction and Topology ## – Explains basic networking concepts, server components, and detailed installation steps for Proxmox and virtual machines.
+### 1. Introduction and Topology ### – Explains basic networking concepts, server components, and detailed installation steps for Proxmox and virtual machines.
 ## 2. Router Services ## – Discusses routing principles, TCP/IP, proxy, firewall, VPN, packet filtering, and routing simulation using GNS3.
 ## 3. DNS Services ## – Covers setup and configuration of ARP, DNS, DHCP, BIND9, and NFS.
 ## 4. Mail Server ## – Guides configuration of email systems using Postfix, Dovecot, Courier, Thunderbird, and Roundcube.
